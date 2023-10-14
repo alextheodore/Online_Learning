@@ -1,0 +1,35 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15vh 20vw;
+    border-radius: 0;
+    background-color: var(--color-bg1);
+}
+
+.login {
+    margin-bottom: 2%;
+    background-color: rgb(0,0,0,0.6);
+    color: #fff;
+    padding: 2vh 26.6vw;
+    border-radius: 0;
+}
+
+.input {
+    margin-right: 2%;
+    margin-bottom: 6%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form a {
+    text-align: center;
+}
+
+.button {
+    margin-top: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
